@@ -20,6 +20,7 @@ React.js frontend application for Somjai Fresh Fruit Store. A modern, responsive
 - **Carousel**: React Slick & React Responsive Carousel
 
 ## 📁 Project Structure
+```
 frontend/
 ├── public/
 │   ├── banner.png         # Hero banner image
@@ -46,6 +47,7 @@ frontend/
 │   ├── index.js           # Application entry point
 │   └── index.css          # Base styles
 └── package.json           # Dependencies and scripts
+```
 
 
 
