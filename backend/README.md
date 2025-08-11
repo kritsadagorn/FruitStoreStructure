@@ -25,6 +25,7 @@ Express.js REST API server for the Somjai Fresh Fruit Store application. Provide
 - **Security**: CORS, express-session
 
 ## 📁 Project Structure
+```
 backend/
 ├── config/
 │   ├── b2.js              # AWS S3 configuration
@@ -39,6 +40,7 @@ backend/
 ├── index.js              # Main server file
 ├── package.json          # Dependencies and scripts
 └── .env                  # Environment variables (create this)
+```
 
 ## 🔧 Installation & Setup
 
