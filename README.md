@@ -13,11 +13,12 @@ A modern e-commerce web application for selling fresh fruits online. This full-s
 - **Recommended Products**: Carousel display of featured products
 
 ## 🏗️ Project Structure
+```
 fruitStore/
 ├── backend/          # Node.js Express API server
 ├── frontend/         # React.js client application
 └── README.md         # This file
-
+```
 
 ## 🛠️ Tech Stack
 
